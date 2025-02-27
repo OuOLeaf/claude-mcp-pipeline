@@ -8,6 +8,8 @@
 
 </div>
 
+<br><br>
+
 **Here are the questions I'm interested in answering:**
 1. Why do we need to ask, copy, and paste code into other tools just to test if the code works?
 2. What does next-generation analysis look like?
