@@ -8,7 +8,7 @@ In February 2025, I developed a new AI applications pipeline, Claude + MCP. This
 **I took the following steps to create my AI agent:**
 1. Downloaded Claude MCP and SQLite
 2. Modified claude_desktop_config.json
-3. Set up my agent's functions in a JSON file
+3. Set up my agent's to become data analyst and file manager in the JSON file
 
 **Here is my demo:**
 1. Data Analysis – No need to use SQL or Excel to generate plots
