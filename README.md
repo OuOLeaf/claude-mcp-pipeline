@@ -17,6 +17,6 @@ https://www.loom.com/share/d3e1c0f0203642dea0ff3d63f0e9b96e?sid=dad16c08-cbc8-45
 
 2. Filesystem – Files are moved and renamed through AI communication
 
-![Filesystem Demo](filesystem_demo.gif)
+https://www.loom.com/share/d694318e1b104aaca72ed02012e0c857?sid=ed1681ba-6320-4b9b-a66c-0befcaf44615
 
 Claude MCP helps streamline the workflow and saves us time, allowing us to focus on the structure of analysis.
