@@ -23,11 +23,11 @@
 3. Set up my agent's to become data analyst and file manager in the JSON file
 
 ## **Here is my demo:**
-1. Data Analysis – No need to use SQL or Excel to generate plots
+### 1. Data Analysis – No need to use SQL or Excel to generate plots
 
 https://www.loom.com/share/d3e1c0f0203642dea0ff3d63f0e9b96e?sid=dad16c08-cbc8-4571-8cd9-952304fd3ac9
 
-2. Filesystem – Files are moved and renamed through AI communication
+### 2. Filesystem – Files are moved and renamed through AI communication
 
 https://www.loom.com/share/d694318e1b104aaca72ed02012e0c857?sid=ed1681ba-6320-4b9b-a66c-0befcaf44615
 
