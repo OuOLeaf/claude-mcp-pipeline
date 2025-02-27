@@ -13,7 +13,7 @@ In February 2025, I developed a new AI applications pipeline, Claude + MCP. This
 **Here is my demo:**
 1. Data Analysis – No need to use SQL or Excel to generate plots
 
-![Data Analysis Demo](analysis_demo.gif)
+[![Data Analysis Demo](analysis_demo.gif)](https://www.loom.com/share/21369fa919de4c749317db4c6e458ba3?sid=89abe333-6c07-4ce3-9bed-4d14f04ed3b3)
 
 2. Filesystem – Files are moved and renamed through AI communication
 
