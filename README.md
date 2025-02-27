@@ -1,6 +1,6 @@
 
 
-### **In February 2025, I developed a new AI Agent, Claude + MCP. This has saved me 20% of my daily workflow in data analysis.**
+### **In February 2025, I developed a new AI Agent, Claude + MCP, helping me data analysis and file organization**
 
 <br>
 
