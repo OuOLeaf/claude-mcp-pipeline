@@ -1,10 +1,10 @@
 
 
-***In February 2025, I developed a new AI applications pipeline, Claude + MCP. This has saved me 20% of my daily workflow in data analysis.***
+***In February 2025, I developed a new AI Agent, Claude + MCP. This has saved me 20% of my daily workflow in data analysis.***
 
 <div align="center">
   
-<img src="AI_agent.gif" alt="Data Analysis Demo" width="600">
+<img src="AI_agent.gif" alt="Data Analysis Demo" width="800">
 
 </div>
 
