@@ -1,5 +1,5 @@
 In February 2025, I developed a new AI applications pipeline, Claude + MCP. This has saved me 20% of my daily workflow in data analysis.
-
+![Data Analysis Demo](AI_agent.gif)
 **Here are the questions I'm interested in answering:**
 1. Why do we need to ask, copy, and paste code into other tools just to test if the code works?
 2. What does next-generation analysis look like?
