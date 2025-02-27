@@ -1,6 +1,12 @@
-In February 2025, I developed a new AI applications pipeline, Claude + MCP. This has saved me 20% of my daily workflow in data analysis.
 
-![Data Analysis Demo](AI_agent.gif)
+
+***In February 2025, I developed a new AI applications pipeline, Claude + MCP. This has saved me 20% of my daily workflow in data analysis.***
+
+<div align="center">
+  
+<img src="AI_agent.gif" alt="Data Analysis Demo" width="600">
+
+</div>
 
 **Here are the questions I'm interested in answering:**
 1. Why do we need to ask, copy, and paste code into other tools just to test if the code works?
